@@ -1,0 +1,70 @@
+body {
+    background-image: url('wp001.jpg');
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20px 0px;
+}
+/* 
+@keyframes bgColor {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: yellow;
+    }
+    75% {
+        background-color: green;
+    }
+    100% {
+        background-color: blue;
+    }
+} */
+
+.container {
+    background-color: rgb(28, 230, 105);
+}
+
+.header {
+    height: 200px;
+    background-image: url('wp02.jpg');
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.menu {
+    border: solid 1px #000;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu a {
+    border: solid 1px #000;
+    border-radius: 5px;
+    color: #000;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 4px;
+    padding: 5px 5px 5px 10px;
+}
+
+.left, .content{
+    height: 300px;
+    background-color: blue;
+}
+.menu a:hover{
+    background-color: rgb(241, 16, 16);
+    color: #fff;
+}
+.footer{
+    height: 100px;
+    background-color: rgb(138, 84, 124);
+    margin-bottom: 100px;
+}
+
+.container {
+    margin-top: 100px;
+}

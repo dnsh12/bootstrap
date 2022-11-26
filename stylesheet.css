@@ -1,0 +1,103 @@
+.header {
+    background-image: url(/Asset/Img/image\ ainz.jpg);
+    border: 5;
+ 
+    display: flex;
+    padding: 1%;
+ 
+}
+ 
+.body {
+    background-image: url(Asset/Img/HD-wallpaper-anime-overlord-ainz-ooal-gown-overlord-anime.jpg);
+ 
+}
+ 
+/* .content {
+    border: 5;
+    background-color: ;
+}
+ 
+.menu {
+ 
+    border: 5;
+    background-color: ;
+ 
+} */
+ 
+td,
+table {
+    border: solid;
+}
+ 
+table {}
+ 
+ 
+ 
+/* .footer {
+ 
+    border: 5;
+    background-color: ;
+    background-image: url(/Asset/Img/image\ ainz.jpg);
+ 
+ 
+ 
+} */
+ 
+.style {
+    width: 75%;
+    padding: 3%;
+    display: flex;
+ 
+    margin: 15%;
+    /* background-color; */
+    border-color: black;
+ 
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 5);
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+h5 {
+    color: white;
+ 
+}
+ 
+h1 {}
+ 
+.img {
+    width: 70px;
+    height: 70px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 5);
+ 
+ 
+}
+ 
+.border1 {
+    border: left 100%;
+ 
+}
+ 
+.Nama {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+ 
+.Nama1 {
+    font-family: fantasy
+}
+ 
+.Nama2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+h2 {
+    font-family: 'Times New Roman';
+ 
+}
+ 
+.warna {
+    color: red
+}
+ 
+.tulisan {
+    color: white;
+}
